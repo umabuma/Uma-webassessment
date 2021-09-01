@@ -1,7 +1,7 @@
 
 #navbarNav{
     font-weight: bolder;
-    background-color:rgb(150, 59, 26);
+    background-color:rgb(246, 204, 189);
 
 }
 #nav > img{
@@ -17,7 +17,7 @@
  
  }
  .enquiriesstyle{
-     background-color:rgb(150, 59, 26);
+     background-color:rgb(246, 204, 189);
  }
  #contactstyle{
    font-weight: bolder;
@@ -28,3 +28,6 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
  }
+ .top{
+    text-align: end;
+}
