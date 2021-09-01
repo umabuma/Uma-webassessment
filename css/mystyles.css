@@ -1,0 +1,30 @@
+
+#navbarNav{
+    font-weight: bolder;
+    background-color:rgb(150, 59, 26);
+
+}
+#nav > img{
+    
+}
+
+#hire{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-style: oblique;
+    
+   
+ 
+ }
+ .enquiriesstyle{
+     background-color:rgb(150, 59, 26);
+ }
+ #contactstyle{
+   font-weight: bolder;
+   font-size: 25px;
+   font-style: normal;
+ }
+ .contactsstyle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+ }
